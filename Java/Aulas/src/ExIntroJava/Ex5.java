@@ -1,4 +1,4 @@
-package Condicionais;
+package ExIntroJava;
 import java.util.Scanner;
 
 public class Ex5 {
